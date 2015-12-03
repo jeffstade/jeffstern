@@ -153,10 +153,15 @@ p {
   bottom: 0;
   left: 0;
 }
+
 a {
   color: #608327;
 }
 
 a:hover {
   color: #162203;
+}
+
+.small a:hover {
+  color: #EEE;
 }
